@@ -36,6 +36,7 @@ p {
   border-color: rgb(0, 255, 234);
   border-width: 3px;
   border-radius: 5%;
+  transition: all 0.5s;
 }
 
 .messi-img {
@@ -73,6 +74,7 @@ ul {
   border-color: rgb(0, 255, 234);
   border-width: 3px;
   border-radius: 5%;
+  transition: all 0.5s;
 }
 
 .mpape-img {
@@ -98,7 +100,6 @@ ul {
 .ronaldo-card:hover {
   transform: Scale(1.1);
   transform: rotate(10deg);
-  transition: all 0.5s;
   opacity: 0.8;
 }
 
@@ -109,4 +110,5 @@ ul {
   border-color: rgb(0, 255, 234);
   border-width: 3px;
   border-radius: 5%;
+  transition: all 0.5s;
 }
