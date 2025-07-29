@@ -37,6 +37,7 @@ p {
   border-width: 3px;
   border-radius: 5%;
   transition: all 0.5s;
+  margin-left: 30px;
 }
 
 .messi-img {
@@ -49,7 +50,6 @@ p {
 .messi-card:hover {
   transform: Scale(1.1);
   transform: rotate(10deg);
-  transition: all 0.5s;
   opacity: 0.8;
 }
 
@@ -87,7 +87,6 @@ ul {
 .mpape-card:hover {
   transform: Scale(1.1);
   transform: rotate(10deg);
-  transition: all 0.5s;
   opacity: 0.8;
 }
 
@@ -111,4 +110,5 @@ ul {
   border-width: 3px;
   border-radius: 5%;
   transition: all 0.5s;
+  margin-right: 30px;
 }
